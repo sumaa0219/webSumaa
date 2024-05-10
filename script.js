@@ -9,7 +9,7 @@ const isDebugSwitch = document.querySelector('debugbutton')
 voiceURL = null
 //postURL = 'https://hoge.fuga/upload'
 // postURL = 'http://127.0.0.1:8000/upload/testfile'
-postURL = 'https://sssuma.com/upload/testfile'
+postURL = 'https://sssumaa.com/upload/testfile'
 
 window.onload = () => {
     openconsole.insertAdjacentHTML('beforeend', '[MESSAGE] Loading...<br>')
